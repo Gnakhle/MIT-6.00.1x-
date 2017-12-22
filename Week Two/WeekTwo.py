@@ -25,6 +25,15 @@ while True:
         high = guess
     else:
         print("Sorry I did not understand your input.")
-        
+
+#Functions 
+
+def a(x):
+   '''
+   x: int or float.
+   '''
+   return x + 1
+
+a       
         
         
